@@ -6,9 +6,6 @@ public class Main {
      emp.getCreatedDate();
 
 
-        Product product = new Product();
-
-        product.set
     }
 
 
